@@ -2,9 +2,11 @@
 
 
 
-Welcome to the Movie App GitHub repository! This application is designed to help movie enthusiasts discover, explore, and keep track of their favorite movies.
+Welcome to the Movie App GitHub repository! This application is designed to help movie enthusiasts discover, explore, and keep track of their favorite movies.<br>
 this app created with
+<br>
 1.movies api (https://api.themoviedb.org)
+<br>
 2.Firebase
 
 
