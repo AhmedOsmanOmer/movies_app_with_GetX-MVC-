@@ -7,29 +7,16 @@ this app created with
 <br>
 1.movies api (https://api.themoviedb.org)
 <br>
-2.Firebase
+1.Firebase
+2.GetX
+3.MVC
+
+
+
+![MergedImages(6)](https://github.com/AhmedOsmanOmer/movies_app_with_GetX-MVC-/assets/77662412/a0d8b6d2-5155-4574-a466-e5e1c2bc4280)
 
 
 
 
 
-![Internet un available](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(1).jpeg
-)
-
-![home Page](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(2).jpeg
-)
-
-![Home Page](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(3).jpeg
-)
-
-![Login Screen](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(4).jpeg
-)
-
-![SignUp Screen](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(5).jpeg
-)
-
-![Google SignIN](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(6).jpeg
-)
-
-![Splash Screen](https://github.com/AhmedOsmanOmer/movies_app/blob/main/screenshots/WhatsApp%20Image%202023-10-11%20at%207.07.58%20AM(7).jpeg
 )
